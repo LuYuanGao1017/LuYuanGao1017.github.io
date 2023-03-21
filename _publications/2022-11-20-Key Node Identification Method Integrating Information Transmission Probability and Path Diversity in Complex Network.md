@@ -2,10 +2,10 @@
 title: "Key Node Identification Method Integrating Information Transmission Probability and Path Diversity in Complex Network"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'This paper is about use hand-draft. The RGCN is left for future work.'
 date: 2022-11-20
 venue: 'The Computer Journal'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+paperurl: 'https://www.researchgate.net/publication/365603136_Key_Node_Identification_Method_Integrating_Information_Transmission_Probability_and_Path_Diversity_in_Complex_Network/link/63f9683cb1704f343f7caa5d/download'
 citation: 'Your Name, You. (2022). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
 This paper is about use hand-draft. The RGCN is left for future work.
