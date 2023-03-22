@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Lynn's page"
+title: "Cape of Good Hope"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
