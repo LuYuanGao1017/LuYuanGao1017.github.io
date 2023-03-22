@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Lynn's page"
+title                    : "Lynn's /page"
 title_separator          : "-"
 name                     : &name "LuYuan Gao"
 description              : &description "personal description"
