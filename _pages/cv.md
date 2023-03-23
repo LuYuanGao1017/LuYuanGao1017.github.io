@@ -21,8 +21,12 @@ Skills
   * Java(Average)
   * C/C++(Average)
 * Deep Learning Framework
-  * Pytorch(Skilled)
+  * Torch(Skilled)
+  * Torch Geometric(Skilled)
   * Tensorflow(Average)
+* Other
+  * Tex(Skilled) 
+  * Markdown(Skilled)
 
 Publications
 ======
