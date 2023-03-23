@@ -5,7 +5,7 @@ permalink: /publication/2022-11-20-Key Node Identification Method Integrating In
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2022-11-20
 venue: 'The Computer Journal'
-paperurl: 'https://github.com/LuYuanGao1017/LuYuanGao1017.github.io/blob/master/files/TheComputerJournal20221120.pdf'
+paperurl: 'https://academic.oup.com/comjnl/advance-article-abstract/doi/10.1093/comjnl/bxac162/6832434?redirectedFrom=fulltext'
 citation: 'XiaoYang Liu, LuYuan Gao. (2022). &quot;Key Node Identification Method Integrating Information Transmission Probability and Path Diversity in Complex Network&quot; <i>The Computer Journal</i>.'
 ---
 
