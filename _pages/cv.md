@@ -44,4 +44,4 @@ Research Experience
 * 2021.12 - 2022.11, **Graph Convolutional Neural Network Based
 Complex Network Key Node Mining Research**, <i>Chongqing University of Technology Graduate Research Innovation Fund Project<i/>
 
-You can find my CV here: [Lynn's Curriculum Vitae](../files/cv.pdf).
+You can find my CV here: [Lynn's Curriculum Vitae](../files/cv.pdf).There is Chinese version of my CV here: [高绿苑的简历](../files/cv-cn.pdf).
