@@ -2,7 +2,7 @@
 title: "Key Node Identification Method Integrating Information Transmission Probability and Path Diversity in Complex Network"
 collection: publications
 permalink: /publication/2022-11-20-Key Node Identification Method Integrating Information Transmission Probability and Path Diversity in Complex Network
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'This paper is about the traditional hand-designed method. The RGCN is left for future work.'
 date: 2022-11-20
 venue: 'The Computer Journal'
 paperurl: 'https://academic.oup.com/comjnl/advance-article-abstract/doi/10.1093/comjnl/bxac162/6832434?redirectedFrom=fulltext'
